@@ -1,0 +1,25 @@
+{
+  "name": "Hello World",
+  "version": "0.1",
+  "description": "Hello World!",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "hello_world.js",
+  "scripts": {
+    "start": "node hello_world.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaxAhlborn/demo"
+  },
+  "keywords": [
+    "node",
+    "hello world"
+  ],
+  "license": "MIT"
+}
